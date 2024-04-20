@@ -1,3 +1,7 @@
+//insertion sort is basically creating a subarray and placing ele at correct ascending order index
+//this is achieved by first checking for first two elements are sorted or not..if not then swap rightmost ele and left to rightmost
+//then update pointer[for subarray increase]
+
 #include <bits/stdc++.h> 
 using namespace std;
 
